@@ -68,7 +68,7 @@ Nomicle is a peer-to-peer identity system that allows users to create, manage, a
 
 As an end user, you won't really be interacting with Nomicle directly other than to set your identifier and start/stop the programs. *Nomicle is designed to be used by other applications on your computer while running silently in the background.*
 
-A few other NORACO projects are designed to work in tandem with Nomicle. To get a proper feel for it, we recommend you also download and run this program simultaneously with Nomicle:
+To get a proper feel for it, we recommend you also download and run this program simultaneously with Nomicle:
 
 - [xTalk](https://github.com/alimahouk/xtalk) - A complementary project that works with Nomicle
 
