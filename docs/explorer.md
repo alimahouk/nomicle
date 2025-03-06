@@ -1,6 +1,6 @@
 # Block Explorer
 
-[← Back to Main Documentation](index.md)
+[← Back to Main Documentation](../README.md)
 
 Block Explorer is a program that can print all the details of an identity block to the console for human viewing. It is available for download from the [Nomicle Downloads](download.md#individual-components) page.
 

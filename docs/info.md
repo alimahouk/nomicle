@@ -1,6 +1,6 @@
 # How It Works
 
-[← Back to Main Documentation](index.md)
+[← Back to Main Documentation](../README.md)
 
 Nomicle allows you to create and associate a cryptographic key with an identifier of your choice (akin to your favourite online username) without depending on a third party. For example, you might want the name "slinky" to allow people to send messages addressed to you over a network.
 

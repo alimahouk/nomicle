@@ -1,6 +1,6 @@
 # Synopsis
 
-[← Back to Main Documentation](index.md)
+[← Back to Main Documentation](../README.md)
 
 ## The Problem
 

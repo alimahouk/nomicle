@@ -1,6 +1,6 @@
 # Get Started
 
-[← Back to Main Documentation](index.md)
+[← Back to Main Documentation](../README.md)
 
 ## Table of Contents
 

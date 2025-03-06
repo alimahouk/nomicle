@@ -1,6 +1,6 @@
 # Downloads
 
-[← Back to Main Documentation](index.md)
+[← Back to Main Documentation](../README.md)
 
 The Nomicle programs are written in Python and have been successfully tested on Windows, macOS, and Linux. The Nomicle C library is currently an Xcode project that only builds on macOS. However, with a simple makefile, you can probably get it to build on Linux or Windows.
 
