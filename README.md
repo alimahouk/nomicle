@@ -80,4 +80,4 @@ This project is licensed under the terms specified in the LICENSE file.
 
 ## Author
 
-Created by alimahouk
+Created by Ali Mahouk
