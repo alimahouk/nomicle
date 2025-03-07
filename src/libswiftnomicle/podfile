@@ -1,0 +1,7 @@
+platform :macos, 11.0
+use_frameworks!
+
+target 'libswiftnomicle' do
+  pod 'OpenSSL-Universal'
+  pod 'OpenSSL-Universal/Framework'
+end
